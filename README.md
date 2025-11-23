@@ -28,7 +28,7 @@ Please select your preferred language to view the privacy policy:
 
 **App Information / Informations sur l'application / 应用信息**
 
-- **App Name / Nom de l'application / 应用名称**: The Fox Within (Conscious Focus)
+- **App Name / Nom de l'application / 应用名称**: The Fox Within
 - **Developer / Développeur / 开发者**: Cheng Zhang
 - **Contact Email / Courriel de contact / 联系邮箱**: thefoxwithinapp@gmail.com
 - **Package Name / Nom du package / 应用包名**: com.thefoxwithin.app
